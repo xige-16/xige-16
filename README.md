@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/xige-16">
+  <img src="https://github-readme-stats.vercel.app/api?username=xige-16&show_icons=true&theme=dracula" />
+</a>
 <!--
 **xige-16/xige-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
